@@ -31,7 +31,6 @@ Je participe à la sécurisation d'environnements multiservices traitant des don
 ### 🐾 À propos de moi
 * **OS de prédilection :** Utilisateur de **Arch** pour la performance et le contrôle. 💻
 * **Passions :** Cybersécurité, hardware, l'univers de **Bleach** et les chats. 🐱
-* **Philosophie :** Comprendre comment ça marche pour mieux savoir comment ça casse.
 
 ---
-*Ce n'est pas le diplôme qui fait le hacker, c'est sa curiosité.*
+
